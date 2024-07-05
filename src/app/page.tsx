@@ -82,7 +82,7 @@ function Home() {
                     <div className="my-2" />
 
                     <Link
-                        className="flex items-center justify-center bg-primary text-primary-foreground pr-[56px] py-1 pl-2 rounded-xl text-center min-h-[60px"
+                        className="flex items-center justify-center bg-primary text-primary-foreground pr-[56px] py-1 pl-2 rounded-xl text-center min-h-[60px]"
                         href="tel:998770992222"
                     >
                         <PhoneOutgoing className="w-[42px] min-w-[42px] flex flex-grow-0 items-center" />
@@ -97,7 +97,7 @@ function Home() {
                     </Link>
 
                     <Link
-                        className="flex items-center justify-center bg-primary text-primary-foreground pr-[56px] py-1 pl-2 rounded-xl text-center min-h-[60px"
+                        className="flex items-center justify-center bg-primary text-primary-foreground pr-[56px] py-1 pl-2 rounded-xl text-center min-h-[60px]"
                         href="tel:998339189999"
                     >
                         <PhoneOutgoing className="w-[42px] min-w-[42px] flex flex-grow-0 items-center" />
