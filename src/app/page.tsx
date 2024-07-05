@@ -21,7 +21,7 @@ function Home() {
                 height={932}
                 priority
             />
-            <div className="max-w-[475px] w-full mx-auto pt-4 pb-8">
+            <div className="max-w-[475px] w-full mx-auto pt-4 pb-12">
                 <div className="w-[150px] mx-auto rounded-full overflow-hidden mb-4">
                     <Image
                         src={Logo}
@@ -79,7 +79,7 @@ function Home() {
                         </div>
                     </Link>
 
-                    <div className="my-2" />
+                    <div className="my-1" />
 
                     <Link
                         className="flex items-center justify-center bg-primary text-primary-foreground pr-[56px] py-1 pl-2 rounded-xl text-center min-h-[60px]"
